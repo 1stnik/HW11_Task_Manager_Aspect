@@ -1,0 +1,13 @@
+{
+  "properties": [
+    {
+      "name": "application.component",
+      "type": "java.lang.String",
+      "description": "Description for application.component."
+    },
+    {
+      "name": "app.connection.type",
+      "type": "java.lang.String",
+      "description": "Description for app.connection.type."
+    }
+  ] }
